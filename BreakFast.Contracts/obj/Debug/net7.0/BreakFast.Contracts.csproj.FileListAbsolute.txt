@@ -1,0 +1,11 @@
+C:\DEV\NET\BreakFast\BreakFast.Contracts\bin\Debug\net7.0\BreakFast.Contracts.deps.json
+C:\DEV\NET\BreakFast\BreakFast.Contracts\bin\Debug\net7.0\BreakFast.Contracts.dll
+C:\DEV\NET\BreakFast\BreakFast.Contracts\bin\Debug\net7.0\BreakFast.Contracts.pdb
+C:\DEV\NET\BreakFast\BreakFast.Contracts\obj\Debug\net7.0\BreakFast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\NET\BreakFast\BreakFast.Contracts\obj\Debug\net7.0\BreakFast.Contracts.AssemblyInfoInputs.cache
+C:\DEV\NET\BreakFast\BreakFast.Contracts\obj\Debug\net7.0\BreakFast.Contracts.AssemblyInfo.cs
+C:\DEV\NET\BreakFast\BreakFast.Contracts\obj\Debug\net7.0\BreakFast.Contracts.csproj.CoreCompileInputs.cache
+C:\DEV\NET\BreakFast\BreakFast.Contracts\obj\Debug\net7.0\BreakFast.Contracts.dll
+C:\DEV\NET\BreakFast\BreakFast.Contracts\obj\Debug\net7.0\refint\BreakFast.Contracts.dll
+C:\DEV\NET\BreakFast\BreakFast.Contracts\obj\Debug\net7.0\BreakFast.Contracts.pdb
+C:\DEV\NET\BreakFast\BreakFast.Contracts\obj\Debug\net7.0\ref\BreakFast.Contracts.dll
